@@ -26,7 +26,7 @@ A modern and responsive login/registration interface with smooth transitions and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/desipaypos-login.git
+   https://github.com/MohammadAtifHossain/Login-Register-forms.git
 
 ## This README includes:
 - Project overview
