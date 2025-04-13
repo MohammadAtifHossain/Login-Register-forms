@@ -2,8 +2,7 @@
 
 A modern and responsive login/registration interface with smooth transitions and social auth options.
 
-![Demo Preview](screenshot.png) <!-- Add a screenshot later -->
-
+![Demo Preview](Screenshot.png)
 ## Features
 
 - Toggle between Login & Register forms
