@@ -1,4 +1,4 @@
-# DesiPayPos Login & Register Page
+#Register Page
 
 A modern and responsive login/registration interface with smooth transitions and social auth options.
 
